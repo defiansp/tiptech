@@ -125,7 +125,11 @@
         PT Tiga Inti Perkasa Tech
       </p>
       <p class="w-1/2 mt-3 text-xs sm:text-sm text-gray-400 dark:text-neutral-300">
-        Jl. Gatot Subroto No. 142, Jayengan, Serengan, Surakarta, Jawa Tengah.
+        <a href="https://maps.app.goo.gl/8fYF7ypuPZ8dzbo88"
+          class="hover:underline hover:decoration-secondary hover:decoration-2"
+          target="_blank" rel="noopener noreferrer">
+          Jl. Gatot Subroto No. 142, Jayengan, Serengan, Surakarta, Jawa Tengah.
+        </a>
       </p>
     </div>
     <!-- End Col -->
@@ -134,10 +138,10 @@
       <h4 class="text-xs font-semibold text-gray-900 uppercase dark:text-neutral-100">Product</h4>
 
       <div class="mt-3 grid space-y-3 text-sm">
-        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="pages/detail.php?id=<?= urlencode('pos') ?>">Point of Sale Restaurant</a> <span class="inline text-blue-600 dark:text-blue-500">— New!</span></p>
-        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="index.php?page=product">Semua Produk</a></p>
-        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="index.php?page=pricing">Harga</a></p>
-        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="https://drive.google.com/uc?export=download&id=1RU0CSzi7lYAKRKRbE1BO96RsJObALh7r">Download Brosur</a></p>
+        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200 hover:underline hover:decoration-secondary hover:decoration-2" href="pages/detail.php?id=<?= urlencode('pos') ?>">Point of Sale Restaurant</a> <span class="inline text-blue-600 dark:text-blue-500">— New!</span></p>
+        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200 hover:underline hover:decoration-secondary hover:decoration-2" href="index.php?page=product">Semua Produk</a></p>
+        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200 hover:underline hover:decoration-secondary hover:decoration-2" href="index.php?page=pricing">Harga</a></p>
+        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200 hover:underline hover:decoration-secondary hover:decoration-2" href="https://drive.google.com/uc?export=download&id=1RU0CSzi7lYAKRKRbE1BO96RsJObALh7r">Download Brosur</a></p>
       </div>
     </div>
     <!-- End Col -->
@@ -146,9 +150,9 @@
       <h4 class="text-xs font-semibold text-gray-900 uppercase dark:text-neutral-100">Company</h4>
 
       <div class="mt-3 grid space-y-3 text-sm">
-        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="index.php?page=about">Informasi Perusahaan</a></p>
-        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="index.php?page=contact">Hubungi Kami</a></p>
-        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200" href="index.php?page=career">Karir</a> <span class="inline text-blue-600 dark:text-blue-500">— We're hiring!</span></p>
+        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200 hover:underline hover:decoration-secondary hover:decoration-2" href="index.php?page=about">Informasi Perusahaan</a></p>
+        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200 hover:underline hover:decoration-secondary hover:decoration-2" href="index.php?page=contact">Hubungi Kami</a></p>
+        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200 hover:underline hover:decoration-secondary hover:decoration-2" href="index.php?page=career">Karir</a> <span class="inline text-blue-600 dark:text-blue-500">— We're hiring!</span></p>
       </div>
     </div>
     <!-- End Col -->

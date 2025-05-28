@@ -1022,7 +1022,7 @@
                 <!-- End Col -->
 
                 <div class="col-span-1">
-                    <a href="https://wa.me/6287737416923?text=Halo,%20saya%20tertarik%20dengan%20produk%20POS." class="w-full py-3 px-4 inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-2xs hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800" href="#">
+                    <a href="https://wa.me/6287737416923?text=Halo,%20saya%20tertarik%20dengan%20produk%20POS." class="w-full py-3 px-4 inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-2xs hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-700 dark:focus:bg-neutral-800" href="#">
                         Coba Sekarang
                     </a>
                 </div>
@@ -1036,7 +1036,7 @@
                 <!-- End Col -->
 
                 <div class="col-span-1">
-                    <a href="https://wa.me/6287737416923?text=Halo,%20saya%20tertarik%20dengan%20produk%20XFOCUS." class="w-full py-3 px-4 inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-2xs hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800" href="#">
+                    <a href="https://wa.me/6287737416923?text=Halo,%20saya%20tertarik%20dengan%20produk%20XFOCUS." class="w-full py-3 px-4 inline-flex justify-center items-center gap-x-2 text-sm font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-2xs hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-700 dark:focus:bg-neutral-800" href="#">
                         Coba Sekarang
                     </a>
                 </div>
@@ -1052,7 +1052,7 @@
                 Butuh software custom sessuai kebutuhan bisnis anda?
             </p>
 
-            <button onclick="window.open('https://wa.me/6287737416923?text=Halo,%20saya%20tertarik%20dengan%20produk%20Anda.', '_blank')" type="button" class="cursor-pointer py-3 px-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-2xs hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800">
+            <button onclick="window.open('https://wa.me/6287737416923?text=Halo,%20saya%20tertarik%20dengan%20produk%20Anda.', '_blank')" type="button" class="cursor-pointer py-3 px-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-lg border border-gray-200 bg-white text-gray-800 shadow-2xs hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-700 dark:focus:bg-neutral-800">
                 Hubungi Kami
             </button>
         </div>
