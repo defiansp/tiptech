@@ -31,7 +31,11 @@
                                 Indonesia
                             </p>
                             <address class="mt-1 text-black not-italic dark:text-white">
-                                Jl. Gatot Subroto No. 142, Jayengan, Serengan, Surakarta, Jawa Tengah.
+                                <a href="https://maps.app.goo.gl/8fYF7ypuPZ8dzbo88"
+                                    class="hover:underline hover:decoration-secondary hover:decoration-2"
+                                    target="_blank" rel="noopener noreferrer">
+                                    Jl. Gatot Subroto No. 142, Jayengan, Serengan, Surakarta, Jawa Tengah.
+                                </a>
                             </address>
                         </div>
                     </div>
@@ -54,10 +58,10 @@
 
                         <div class="grow">
                             <p class="text-sm text-gray-600 dark:text-neutral-400">
-                                Email 
+                                Email
                             </p>
                             <p>
-                                <a class="relative inline-block font-medium text-black before:absolute before:bottom-0.5 before:start-0 before:-z-1 before:w-full before:h-1 before:bg-secondary hover:before:bg-black focus:outline-hidden focus:before:bg-black dark:text-white dark:hover:before:bg-white dark:focus:before:bg-white" href="mailto:cs@tigaintiperkasa.co.id">
+                                <a class="relative inline-block font-medium text-black before:absolute before:bottom-0.5 before:start-0 before:-z-1 before:w-full before:h-1 before:bg-secondary hover:before:bg-black focus:outline-hidden focus:before:bg-black dark:text-white dark:hover:before:bg-white dark:focus:before:bg-white" href="https://mail.google.com/mail/?view=cm&fs=1&to=cs@tigaintiperkasa.co.id" target="_blank" rel="noopener noreferrer">
                                     cs@tigaintiperkasa.co.id
                                 </a>
                             </p>

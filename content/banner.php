@@ -16,7 +16,7 @@
                 Software ERP terbaik ada di genggaman anda.
             </h1>
             <p class="mb-6 text-gray-500 dark:text-gray-400">Program XFOCUS adalah software berbasis Cloud ERP untuk mengelola segala jenis bisnis, lengkap mulai dari Pembelian hingga Laporan semuanya dalam satu aplikasi.</p>
-            <a href="#" class="inline-flex items-center justify-center rounded-full bg-primary px-5 py-2 text-center text-base font-medium text-white dark:text-primary dark:bg-white hover:bg-secondary"> Coba Sekarang! </a>
+            <a href="https://wa.me/6287737416923?text=Halo,%20saya%20tertarik%20dengan%20produk%20XFOCUS." class="inline-flex items-center justify-center rounded-full bg-primary px-5 py-2 text-center text-base font-medium text-white dark:text-primary dark:bg-white hover:bg-secondary"> Coba Sekarang! </a>
         </div>
     </div>
 </section>

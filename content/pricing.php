@@ -109,7 +109,7 @@
               </div>
 
               <div class="flex justify-end">
-                <button type="button" class="py-2 px-6 inline-flex items-center gap-x-2 text-sm font-medium rounded-full border border-gray-200 bg-white text-gray-800 shadow-2xs hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800">Coba Gratis!</button>
+                <button onclick="window.open('https://wa.me/6287737416923?text=Halo,%20saya%20ingin%20coba%20produk%20POS.', '_blank')" type="button" class="py-2 px-6 inline-flex items-center gap-x-2 text-sm font-medium rounded-full border border-gray-200 bg-white text-gray-800 shadow-2xs hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-50 dark:bg-transparent dark:border-neutral-700 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800">Coba Gratis!</button>
               </div>
             </div>
           </div>
@@ -211,7 +211,7 @@
               </div>
 
               <div class="flex justify-end">
-                <button type="button" class="py-2 px-6 inline-flex items-center gap-x-2 text-sm font-medium rounded-full border border-transparent bg-primary text-white dark:bg-secondary dark:text-primary hover:bg-neutral-800 dark:hover:bg-white disabled:opacity-50 disabled:pointer-events-none">Coba Gratis!</button>
+                <button onclick="window.open('https://wa.me/6287737416923?text=Halo,%20saya%20ingin%20coba%20produk%20POS%20Resto.', '_blank')" type="button" class="py-2 px-6 inline-flex items-center gap-x-2 text-sm font-medium rounded-full border border-transparent bg-primary text-white dark:bg-secondary dark:text-primary hover:bg-neutral-800 dark:hover:bg-white disabled:opacity-50 disabled:pointer-events-none">Coba Gratis!</button>
               </div>
             </div>
           </div>
@@ -240,7 +240,7 @@
     </div>
 
     <?php if (!isset($_GET['page']) || $_GET['page'] === 'home'): ?>
-      <div class="kita-coba mt-7 text-center">
+      <div class="mt-7 text-center">
         <p class="text-xs text-gray-400">Ingin lihat perbandingan fiturnya?
           <a href="index.php?page=pricing" class="inline-flex items-center font-medium text-secondary hover:underline">
             Klik disini

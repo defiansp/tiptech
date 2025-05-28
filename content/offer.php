@@ -55,7 +55,7 @@
     <!-- End Card -->
 
     <!-- Card -->
-    <a href="/product" class="group relative flex flex-col w-full min-h-60 bg-[url('https://images.unsplash.com/photo-1649520208876-34e14eb5a5c5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDk0fHx8ZW58MHx8fHx8')] bg-center bg-cover rounded-xl hover:shadow-lg focus:outline-hidden focus:shadow-lg transition" href="#">
+    <a href="index.php?page=product" class="group relative flex flex-col w-full min-h-60 bg-[url('https://images.unsplash.com/photo-1649520208876-34e14eb5a5c5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDk0fHx8ZW58MHx8fHx8')] bg-center bg-cover rounded-xl hover:shadow-lg focus:outline-hidden focus:shadow-lg transition" href="#">
       <div class="flex-auto p-4 md:p-6">
         <h3 class="text-xl text-white/90 group-hover:text-white"><span class="font-bold">PT Tiga Inti Perkasa Tech</span> menyediakan berbagai software untuk kebutuhan bisnis anda.</h3>
       </div>

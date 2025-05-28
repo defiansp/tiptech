@@ -252,7 +252,7 @@
 <section>
     <div class="pt-4 pb-8 px-4 mx-auto max-w-screen-xl sm:pb-16 lg:px-6">
         <div class="mx-auto max-w-screen-sm text-center">
-            <a href="#" class="inline-flex justify-between items-center py-2 px-4 mb-7 text-sm text-gray-700 bg-gray-100 rounded-full dark:bg-gray-800 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-700" role="alert">
+            <a href="https://wa.me/6287737416923?text=Halo,%20saya%20tertarik%20dengan%20produk%20POS%20Resto." class="inline-flex justify-between items-center py-2 px-4 mb-7 text-sm text-gray-700 bg-gray-100 rounded-full dark:bg-gray-800 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-700" role="alert">
                 <span class="text-sm font-medium">Dapatkan informasi lengkap</span>
                 <svg class="ml-2 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                     <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>

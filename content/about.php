@@ -4,9 +4,9 @@
             <div
                 class="w-full justify-center items-start gap-6 grid sm:grid-cols-2 grid-cols-1 lg:order-first order-last">
                 <div class="pt-24 lg:justify-center sm:justify-end justify-start items-start gap-2.5 flex">
-                    <img class="rounded-xl object-cover hover:scale-110 transition-transform duration-500 ease-in-out" src="{{ asset('image/company-2.png') }}" alt="about Us image" />
+                    <img class="rounded-xl object-cover hover:scale-110 transition-transform duration-500 ease-in-out" src="image/company-2.png" alt="about Us image" />
                 </div>
-                <img class="sm:ml-0 ml-auto rounded-xl object-cover hover:scale-110 transition-transform duration-500 ease-in-out" src="{{ asset('image/company-1.png') }}" alt="about Us image" />
+                <img class="sm:ml-0 ml-auto rounded-xl object-cover hover:scale-110 transition-transform duration-500 ease-in-out" src="image/company-1.png" alt="about Us image" />
             </div>
             <div class="w-full flex-col justify-center lg:items-start items-center gap-10 inline-flex">
                 <div class="w-full flex-col justify-center items-start gap-8 flex">
@@ -33,7 +33,7 @@
                         </div>
                     </div>
                 </div>
-                <a href="#" class="inline-flex justify-between items-center py-2 px-4 mb-7 text-sm text-gray-700 bg-gray-100 rounded-full dark:bg-gray-800 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-700" role="alert">
+                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cs@tigaintiperkasa.co.id" target="_blank" rel="noopener noreferrer" class="inline-flex justify-between items-center py-2 px-4 mb-7 text-sm text-gray-700 bg-gray-100 rounded-full dark:bg-gray-800 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-700" role="alert">
                     <span class="text-sm font-medium">Buat project anda bersama kami</span>
                     <svg class="ml-2 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                         <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
