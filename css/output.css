@@ -4183,6 +4183,11 @@
       background-color: var(--color-white);
     }
   }
+  .dark\:p-2 {
+    &:where(.dark, .dark *) {
+      padding: calc(var(--spacing) * 2);
+    }
+  }
   .dark\:text-blue-300 {
     &:where(.dark, .dark *) {
       color: var(--color-blue-300);
@@ -4277,6 +4282,12 @@
       @supports (color: color-mix(in lab, red, red)) {
         --tw-shadow-color: color-mix(in oklab, color-mix(in oklab, var(--color-neutral-700) 70%, transparent) var(--tw-shadow-alpha), transparent);
       }
+    }
+  }
+  .dark\:grayscale {
+    &:where(.dark, .dark *) {
+      --tw-grayscale: grayscale(100%);
+      filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
     }
   }
   .dark\:group-hover\:text-white {
