@@ -56,15 +56,15 @@
                     <!-- Tab Content -->
                     <div>
                         <div id="styled-profile" role="tabpanel" aria-labelledby="profile-tab">
-                            <img class="shadow-xl shadow-gray-200 rounded-xl dark:shadow-gray-900/20" src="https://images.unsplash.com/photo-1605629921711-2f6b00c6bbf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            <img class="shadow-xl shadow-gray-200 rounded-xl dark:shadow-gray-900/20" src="image/home-1.webp" alt="Features Image">
                         </div>
 
                         <div id="styled-dashboard" role="tabpanel" aria-labelledby="dashboard-tab">
-                            <img class="shadow-xl shadow-gray-200 rounded-xl dark:shadow-gray-900/20" src="https://images.unsplash.com/photo-1665686306574-1ace09918530?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            <img class="shadow-xl shadow-gray-200 rounded-xl dark:shadow-gray-900/20" src="image/home-2.webp" alt="Features Image">
                         </div>
 
                         <div id="styled-settings" role="tabpanel" aria-labelledby="settings-tab">
-                            <img class="shadow-xl shadow-gray-200 rounded-xl dark:shadow-gray-900/20" src="https://images.unsplash.com/photo-1598929213452-52d72f63e307?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            <img class="shadow-xl shadow-gray-200 rounded-xl dark:shadow-gray-900/20" src="image/home-3.webp" alt="Features Image">
                         </div>
                     </div>
                     <!-- End Tab Content -->
@@ -101,17 +101,17 @@
             <!-- Grid -->
             <div class="grid grid-cols-12 gap-2 sm:gap-6 items-center lg:-translate-x-10">
                 <div class="col-span-4">
-                    <img class="rounded-xl" src="image/prod-2.1.png" alt="Features Image">
+                    <img class="rounded-xl" src="image/prod-1.webp" alt="Features Image">
                 </div>
                 <!-- End Col -->
 
                 <div class="col-span-3">
-                    <img class="rounded-xl" src="image/prod-2.2.png" alt="Features Image">
+                    <img class="rounded-xl" src="image/prod-2.webp" alt="Features Image">
                 </div>
                 <!-- End Col -->
 
                 <div class="col-span-5">
-                    <img class="rounded-xl" src="image/prod-2.3.png" alt="Features Image">
+                    <img class="rounded-xl" src="image/prod-3.webp" alt="Features Image">
                 </div>
                 <!-- End Col -->
             </div>

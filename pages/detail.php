@@ -34,7 +34,7 @@ function gambar($filename)
         // Sesuaikan URL dengan base URL kamu
         return '/tiptech/image/' . $filename;
     }
-    return '/tiptech/image/image.jpg';
+    return '/tiptech/image/no-image.jpg';
 }
 
 // Set judul halaman (bisa dipakai di layout)

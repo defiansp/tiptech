@@ -4,9 +4,9 @@
             <div
                 class="w-full justify-center items-start gap-6 grid sm:grid-cols-2 grid-cols-1 lg:order-first order-last">
                 <div class="pt-24 lg:justify-center sm:justify-end justify-start items-start gap-2.5 flex">
-                    <img class="rounded-xl object-cover hover:scale-110 transition-transform duration-500 ease-in-out" src="image/company-2.png" alt="about Us image" />
+                    <img class="rounded-xl object-cover hover:scale-110 transition-transform duration-500 ease-in-out" src="image/company-2.webp" alt="about Us image" />
                 </div>
-                <img class="sm:ml-0 ml-auto rounded-xl object-cover hover:scale-110 transition-transform duration-500 ease-in-out" src="image/company-1.png" alt="about Us image" />
+                <img class="sm:ml-0 ml-auto rounded-xl object-cover hover:scale-110 transition-transform duration-500 ease-in-out" src="image/company-1.webp" alt="about Us image" />
             </div>
             <div class="w-full flex-col justify-center lg:items-start items-center gap-10 inline-flex">
                 <div class="w-full flex-col justify-center items-start gap-8 flex">

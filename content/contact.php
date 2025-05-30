@@ -7,7 +7,7 @@
 
     <div class="grid grid-cols-1 lg:grid-cols-2 lg:items-center gap-6 md:gap-8 lg:gap-12">
         <div class="aspect-w-16 aspect-h-6 lg:aspect-h-14 overflow-hidden bg-gray-100 rounded-2xl dark:bg-neutral-800">
-            <img class="hover:scale-120 focus:scale-120 transition-transform duration-2500 ease-in-out object-cover rounded-2xl" src="image/company-5.png" alt="Contacts Image">
+            <img class="hover:scale-120 focus:scale-120 transition-transform duration-2500 ease-in-out object-cover rounded-2xl" src="image/company-4.webp" alt="Contacts Image">
             <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.998307210021!2d110.82022099999999!3d-7.5751614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a16ee1d538bbd%3A0xa583449fa6e3a8c5!2sPT.%20Tiga%20Inti%20Perkasa%20Tech!5e0!3m2!1sid!2sid!4v1747797557425!5m2!1sid!2sid" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
         </div>
         <!-- End Col -->

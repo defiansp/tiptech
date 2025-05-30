@@ -12,7 +12,7 @@
     <!-- Card -->
     <a  href="pages/detail.php?id=<?= urlencode('manufactur') ?>" class="group flex flex-col focus:outline-hidden" href="#">
       <div class="relative pt-[50%] sm:pt-[70%] rounded-xl overflow-hidden">
-        <img class="size-full absolute top-0 start-0 object-cover group-hover:scale-105 group-focus:scale-105 transition-transform duration-500 ease-in-out rounded-xl" src="image/mockup-1.png" alt="Blog Image">
+        <img class="size-full absolute top-0 start-0 object-cover group-hover:scale-105 group-focus:scale-105 transition-transform duration-500 ease-in-out rounded-xl" src="image/mockup-1.webp" alt="Blog Image">
         <span class="absolute top-0 end-0 rounded-se-xl rounded-es-xl text-xs font-medium bg-gray-800 text-white py-1.5 px-3 dark:bg-neutral-900">
           Popular
         </span>
@@ -36,7 +36,7 @@
     <!-- Card -->
     <a  href="pages/detail.php?id=<?= urlencode('distribusi') ?>" class="group flex flex-col focus:outline-hidden" href="#">
       <div class="relative pt-[50%] sm:pt-[70%] rounded-xl overflow-hidden">
-        <img class="size-full absolute top-0 start-0 object-cover group-hover:scale-105 group-focus:scale-105 transition-transform duration-500 ease-in-out rounded-xl" src="image/mockup-2.png" alt="Blog Image">
+        <img class="size-full absolute top-0 start-0 object-cover group-hover:scale-105 group-focus:scale-105 transition-transform duration-500 ease-in-out rounded-xl" src="image/mockup-2.webp" alt="Blog Image">
       </div>
 
       <div class="mt-7">

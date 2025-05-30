@@ -114,11 +114,9 @@
   <!-- Grid -->
   <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mb-10">
     <div class="hidden md:block">
-      <a href="https://tigaintiperkasa.co.id/" class="flex items-center space-x-3 rtl:space-x-reverse">
-        <svg class="h-8 hidden text-secondary" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-6">
-          <path fill-rule="evenodd" d="M3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V6Zm14.25 6a.75.75 0 0 1-.22.53l-2.25 2.25a.75.75 0 1 1-1.06-1.06L15.44 12l-1.72-1.72a.75.75 0 1 1 1.06-1.06l2.25 2.25c.141.14.22.331.22.53Zm-10.28-.53a.75.75 0 0 0 0 1.06l2.25 2.25a.75.75 0 1 0 1.06-1.06L8.56 12l1.72-1.72a.75.75 0 1 0-1.06-1.06l-2.25 2.25Z" clip-rule="evenodd" />
-        </svg>
-        <img src="image/logo-blue.png" class="h-8 dark:bg-white rounded-lg" alt="tiptech Logo">
+      <a href="<?= $base_url ?>/index.php" class="flex items-center space-x-3 rtl:space-x-reverse">
+        <img src="<?= $base_url ?>/image/logo-blue.svg" class="h-8 dark:hidden rounded-lg" alt="tiptech Logo">
+        <img src="<?= $base_url ?>/image/logo-yellow.svg" class="h-8 hidden dark:block rounded-lg" alt="tiptech Logo">
         <span class="self-center text-2xl font-bold whitespace-nowrap text-primary dark:text-white">tiptech</span>
       </a>
       <p class="mt-3 text-xs sm:text-sm text-gray-600 dark:text-neutral-400">
@@ -138,7 +136,7 @@
       <h4 class="text-xs font-semibold text-gray-900 uppercase dark:text-neutral-100">Product</h4>
 
       <div class="mt-3 grid space-y-3 text-sm">
-        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200 hover:underline hover:decoration-secondary hover:decoration-2" href="pages/detail.php?id=<?= urlencode('pos') ?>">Point of Sale Restaurant</a> <span class="inline text-blue-600 dark:text-blue-500">— New!</span></p>
+        <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200 hover:underline hover:decoration-secondary hover:decoration-2" href="pages/detail.php?id=<?= urlencode('resto') ?>">Point of Sale Restaurant</a> <span class="inline text-blue-600 dark:text-blue-500">— New!</span></p>
         <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200 hover:underline hover:decoration-secondary hover:decoration-2" href="index.php?page=product">Semua Produk</a></p>
         <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200 hover:underline hover:decoration-secondary hover:decoration-2" href="index.php?page=pricing">Harga</a></p>
         <p><a class="inline-flex gap-x-2 text-gray-600 hover:text-gray-800 focus:outline-hidden focus:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 dark:focus:text-neutral-200 hover:underline hover:decoration-secondary hover:decoration-2" href="https://drive.google.com/uc?export=download&id=1RU0CSzi7lYAKRKRbE1BO96RsJObALh7r">Download Brosur</a></p>
@@ -164,11 +162,9 @@
 
     <div class="flex flex-wrap justify-between items-center gap-3">
       <div class="mt-3 md:hidden">
-        <a href="index.php" class="flex items-center space-x-3 rtl:space-x-reverse">
-          <svg class="h-8 hidden text-secondary" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-6">
-            <path fill-rule="evenodd" d="M3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V6Zm14.25 6a.75.75 0 0 1-.22.53l-2.25 2.25a.75.75 0 1 1-1.06-1.06L15.44 12l-1.72-1.72a.75.75 0 1 1 1.06-1.06l2.25 2.25c.141.14.22.331.22.53Zm-10.28-.53a.75.75 0 0 0 0 1.06l2.25 2.25a.75.75 0 1 0 1.06-1.06L8.56 12l1.72-1.72a.75.75 0 1 0-1.06-1.06l-2.25 2.25Z" clip-rule="evenodd" />
-          </svg>
-          <img src="image/logo-blue.png" class="h-8 dark:bg-white rounded-lg" alt="Flowbite Logo">
+        <a href="<?= $base_url ?>/index.php" class="flex items-center space-x-3 rtl:space-x-reverse">
+          <img src="<?= $base_url ?>/image/logo-blue.svg" class="h-8 dark:hidden rounded-lg" alt="tiptech Logo">
+          <img src="<?= $base_url ?>/image/logo-yellow.svg" class="h-8 hidden dark:block rounded-lg" alt="tiptech Logo">
           <span class="self-center text-2xl font-bold whitespace-nowrap text-primary dark:text-white">tiptech</span>
         </a>
         <p class="mt-1 text-xs sm:text-sm text-gray-400 dark:text-neutral-400">

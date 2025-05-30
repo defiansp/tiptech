@@ -21,11 +21,12 @@ if (file_exists($jsonFile)) {
             <?php foreach ($data as $item): ?>
                 <?php
                 // Fallback jika gambar kosong
-                $gambar = !empty($item['gambar-1']) ? $item['gambar-1'] : 'image.jpg';
+                $gambarPath = __DIR__ . '/../image/' . $item['gambar-1'];
+                $gambar = (!empty($item['gambar-1']) && file_exists($gambarPath)) ? $item['gambar-1'] : 'no-image.jpg';
                 ?>
                 <div class="group flex flex-col h-full bg-white border border-gray-200 shadow-2xs rounded-xl dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70">
                     <div class="h-52 rounded-t-xl">
-                        <img class="size-full object-cover rounded-t-xl" src="image/<?php echo htmlspecialchars($gambar); ?>" alt="Cover Image">
+                        <img class="size-full object-cover rounded-t-xl" loading="lazy" src="image/<?php echo htmlspecialchars($gambar); ?>" alt="Cover Image">
                     </div>
                     <div class="p-4 md:p-6">
                         <div class="flex gap-3">

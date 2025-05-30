@@ -23,7 +23,7 @@
             </div>
             <div class="w-full justify-center items-start flex">
                 <div class="sm:w-[364px] w-full sm:h-[446px] h-full sm:bg-gray-100 dark:bg-neutral-700 rounded-3xl sm:border border-gray-200 dark:border-neutral-600 relative">
-                    <img class="sm:mt-5 sm:ml-5 w-full h-full rounded-3xl object-cover hover:scale-110 transition-transform duration-500 ease-in-out" src="image/company-3.png" alt="about Us image" />
+                    <img class="sm:mt-5 sm:ml-5 w-full h-full rounded-3xl object-cover hover:scale-110 transition-transform duration-500 ease-in-out" src="image/company-3.webp" alt="about Us image" />
                 </div>
             </div>
         </div>

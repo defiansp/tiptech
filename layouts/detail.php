@@ -8,7 +8,7 @@ $base_url = '/tiptech';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" href="image/logo-blue.png">
+    <link rel="icon" type="image/png" href="image/logo-yellow.svg">
 
     <title><?php echo isset($title) ? $title : "XFOCUS"; ?></title>
 
